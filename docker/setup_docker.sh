@@ -7,5 +7,5 @@ build()
 
 run()
 {
-    sudo docker run -it --name vm_container -v $PWD/../:/home vm_image
+    sudo docker run -it --name vm_container -v C:\Users\harka\Documents\programming-projects\personal-projects\computervision-raspberrypi\docker:/home vm_image
 }
