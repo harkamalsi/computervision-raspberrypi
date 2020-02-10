@@ -1,7 +1,7 @@
 # computervision-raspberrypi
 Computer vision and raspberry pi projects. 
 
-## Git-konvensjoner
+## Git-conventions
 
 ### Branches
 *   master: Updated only when milestones are completed
