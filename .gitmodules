@@ -1,0 +1,3 @@
+[submodule "src/picam_wrapper"]
+	path = src/picam_wrapper
+	url = https://github.com/chrisvibe/picam_wrapper.git
