@@ -1,0 +1,1 @@
+from picam_wrapper import take_picture
