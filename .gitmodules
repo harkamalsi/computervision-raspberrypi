@@ -1,3 +1,6 @@
 [submodule "src/picam_wrapper"]
 	path = src/picam_wrapper
 	url = https://github.com/chrisvibe/picam_wrapper.git
+[submodule "src/oled_display_wrapper"]
+	path = src/oled_display_wrapper
+	url = https://github.com/chrisvibe/oled_display_wrapper.git
